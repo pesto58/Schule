@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">test2</string>
+    <string name="tvAufgabe1">Aufgabe 1</string>
+    <string name="sr1Beschreibung">Jeder Schalter S1 bis S9 kann in genau zwei verschiedene Positionen gebracht werden, nämlich \"oben\" und \"unten\".
+    Die Aufgabe ist gelöst, wenn jeder Schalter entweder in die Stellung oben oder unten gebracht wurde und die folgenden 9 Bedingungen erfüllt sind:
+    </string>
+    <string name="sr1Bed1">1. Wenn Schalter 3 auf \"oben\" gestellt wird, dann müssen sowohl Schalter 7 als auch Schalter 8 auf \"unten\" gestellt werden.</string>
+    <string name="sr1Bed2">2. Wenn 1 auf \"unten\", dann muss von den Schaltern 2 und 4 mindestens einer auf \"unten\" gestellt werden.</string>
+    <string name="sr1Bed3">3. Von den beiden Schaltern 1 und 6 muss mindestens einer auf \"unten\" stehen.</string>
+    <string name="sr1Bed4">4. Falls 6 auf \"unten\", dann müssen 7 auf \"unten\" und 5 auf \"oben\" stehen.</string>
+    <string name="sr1Bed5">5. Falls sowohl 9 auf \"unten\" als auch 1 auf \"oben\", dann muss 3 auf \"unten\" stehen.</string>
+    <string name="sr1Bed6">6. Von den Schaltern 8 und 2 muss mindestens einer auf \"oben\" stehen.</string>
+    <string name="sr1Bed7">7. Wenn 3 auf \"unten\" oder 6 auf \"oben\" stehen oder beides der Fall ist, dann müssen 8 auf \"unten\" und 4 auf \"oben\" stehen.</string>
+    <string name="sr1Bed8">8. Falls 9 auf \"oben\" steht, dann müssen 5 auf \"unten\" und 6 auf \"oben\" stehen.</string>
+    <string name="sr1Bed9">9. Und wenn 4 auf \"unten\" steht, dann müssen 3 auf \"unten\" und 9 auf \"oben\" stehen.</string>
+    <string name="PfeilNachOben"><![CDATA[↑]]></string>
+    <string name="PfeilNachUnten">↓</string>
+</resources>
